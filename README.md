@@ -1,2 +1,2 @@
 # games
-Some games using pyhton
+Some games using python
